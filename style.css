@@ -19,6 +19,7 @@ button{
     background-color: white;
     cursor: pointer;
     transition: transform 200ms ease-in-out;
+-webkit-tap-highlight-color: transparent;
 }
 button:hover{
     background-color: #691654;
