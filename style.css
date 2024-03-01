@@ -19,14 +19,15 @@ button{
     background-color: white;
     cursor: pointer;
     transition: transform 200ms ease-in-out;
--webkit-tap-highlight-color: transparent;
-outline: none;
-box-shadow: none;
+
 }
 button:hover{
     background-color: #691654;
     border: white solid 3px;
     transform: scale(1.05);
+    -webkit-tap-highlight-color: transparent;
+    outline: none;
+    box-shadow: none;
 }
 .logo{
     width: 100px;
