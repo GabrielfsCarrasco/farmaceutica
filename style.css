@@ -53,8 +53,7 @@ p{
     margin-top: -50px;
     background-color: white;
     width: 140px;
-    position: absolute;
-    left: 34px;
+    margin-left: 110px;
     border-radius: 5px;
     font-weight: 900;
 }
@@ -69,7 +68,7 @@ p{
     position: absolute;
     width: 41px;
     top: 513px;
-    left: 220px;
+    left: 200px;
     bottom: 50px;
     transition: transform 200ms ease-in-out;
 }
@@ -78,11 +77,4 @@ p{
 }
 .im:hover{
     transform: scale(1.1);
-}
-.div{
-    position: absolute;
-    left: 100px;
-}
-.div2{
-    position: relative;
 }
