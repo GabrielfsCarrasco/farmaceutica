@@ -29,6 +29,9 @@ button:hover{
     outline: none;
     box-shadow: none;
 }
+button:focus{
+    outline-style: none;
+}
 .logo{
     width: 100px;
     display: block;
